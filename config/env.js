@@ -11,4 +11,6 @@ export const {
   JWT_EXPIRES_IN,
   QSTASH_URL,
   QSTASH_TOKEN,
+  EMAIL_PASSWORD,
+  EMAIL,
 } = process.env;
